@@ -5,7 +5,7 @@
 * abalone_benchmarks
 
 ## 2. 工具包
-* 使用**Python Outlier Detection (PyOD)**工具包来完成分析工作
+* 使用 **Python Outlier Detection (PyOD)** 工具包来完成分析工作
 
 ## 3. 提交的内容
 * 完整的分析代码
